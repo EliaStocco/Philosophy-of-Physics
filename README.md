@@ -1,4 +1,4 @@
-# Philosophy and-of Physics
+# Philosophy of Physics
 
 Scrivere un'introduzione...
 
