@@ -14,13 +14,4 @@ by someone without a deep physical, mathematical or philosophical
 background. We hope someone interested in the connection between
 these two subject finds this content useful -be it for
 personal interest only, for research purpose or perhaps to
-find inspiration for a divulgation project.
-
-## List of Articles
-### A simple proof of Bell's inequality
-**Author(s):** Lorenzo Maccone  
-**Language:** English  
-**Path:** Quantum Mechanics  
-**Summary:** An intuitive proof of Bell's theorem with a clear
-visual interpretation  
-**Prerequisites:** Basic concepts of Quantum Mechanics  
+find inspiration for a divulgation project

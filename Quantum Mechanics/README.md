@@ -2,7 +2,7 @@
 
 ## A simple proof of Bell's inequality
 
-**Author(s):** Lorenzo Maccone  
+**Author:** Lorenzo Maccone  
 **Language:** English  
 **Year:** 2013  
 **Summary:** An intuitive proof of Bell's theorem with a clear
