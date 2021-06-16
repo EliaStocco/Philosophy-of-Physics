@@ -18,12 +18,12 @@ find inspiration for a divulgation project.
 
 ## List of Articles
 ### A simple proof of Bell's inequality
-**Author(s):** Lorenzo Maccone
-**Language:** English
-**Path:** Quantum Mechanics
+**Author(s):** Lorenzo Maccone  
+**Language:** English  
+**Path:** Quantum Mechanics  
 **Summary:** An intuitive proof of Bell's theorem with a clear
-visual interpretation
-**Prerequisites:** Basic concepts of Quantum Mechanics
+visual interpretation  
+**Prerequisites:** Basic concepts of Quantum Mechanics  
 
 ## Organizzazione
 
