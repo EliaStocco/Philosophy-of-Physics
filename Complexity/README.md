@@ -1,6 +1,6 @@
 # Complexity
 
-We feel obliged to begin with one of the most famous scientific articles ever.
+We feel compelled to start with one of the most famous scientific articles ever.
 
 ## More Is Different
 
