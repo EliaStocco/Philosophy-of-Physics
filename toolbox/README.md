@@ -13,6 +13,6 @@ List of cited authors and their web page:
 **Author:** [author name](https://github.com/EliaStocco/Philosophy-of-Physics)  
 **Language:** English  
 **Year:** 2011  
-**url**: https://github.com/EliaStocco/Philosophy-of-Physics
-**Prerequisites:** none, but *some comments*
-**Summary:** a short summary
+**url**: https://github.com/EliaStocco/Philosophy-of-Physics  
+**Prerequisites:** none, but *some comments*  
+**Summary:** a short summary  
