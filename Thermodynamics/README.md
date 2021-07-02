@@ -16,5 +16,5 @@
 **Year:** 2014  
 **Summary:**  the article explains why in the theoretical foundations of statistical mechanics many degrees of freedom are necessary while chaos is only marginally relevant for the emergence of statistical laws in macroscopic systems.  
 **url**: https://iopscience.iop.org/article/10.1088/0253-6102/62/4/04
-**Prerequisites:** basic knowledges of ergodic theory, thermodynamics and statistical mechanics
+**Prerequisites:** basic knowledges of ergodic theory, thermodynamics and statistical mechanics 
 **Comments**: brevity and clarity of the article make it highly recommended to read
