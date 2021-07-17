@@ -11,7 +11,7 @@
 
 ## On the Foundations of Statistical Mechanics: Ergodicity, Many Degrees of Freedom and Inference
 
-**Author:** [Sergio Chibbaro](http://www.lmm.jussieu.fr/~chibbaro/Home.html), [Lamberto Rondoni](http://calvino.polito.it/~rondoni/), [Angelo Vulpiani](http://tnt.phys.uniroma1.it/twiki/bin/view/TNTgroup/AngeloVulpiani)
+**Author:** [Sergio Chibbaro](http://www.lmm.jussieu.fr/~chibbaro/Home.html), [Lamberto Rondoni](http://calvino.polito.it/~rondoni/), [Angelo Vulpiani](http://tnt.phys.uniroma1.it/twiki/bin/view/TNTgroup/AngeloVulpiani)  
 **Language:** English  
 **Year:** 2014  
 **Summary:**  the article explains why in the theoretical foundations of statistical mechanics many degrees of freedom are necessary while chaos is only marginally relevant for the emergence of statistical laws in macroscopic systems.  
